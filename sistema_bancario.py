@@ -70,6 +70,6 @@ while ligar_sistema:
         ligar_sistema = False
         
     else:
-        print("Operação inválida, por favor selecione novamente a operação desejada.")
+        print("\nOperação inválida, por favor selecione novamente a operação desejada.")
         
 print("\nOperações encerradas! Volte sempre.")
